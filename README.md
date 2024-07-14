@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhruv saini</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/flat-design-vector-man-programmer-working_5359381.htm#query=coding%20gif&position=24&from_view=keyword&track=ais_user&uuid=935ee205-06ec-4d51-bc93-bfdc7561d98c">
+<img align ="right" alt="coding" width="500" src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA5NDA5MjksIm5iZiI6MTcyMDk0MDYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE0VDA3MDM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhYjdhNGU5NGZmNWQxZGM1MDg5YTBjMzViZjg4YmUzNzFjMDMwMGRlODA2OWQyMTQyYzY0MGJjYThhOWFhYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._51ZEJBKgTKsbDsR9IfDlK1OLNOWF7vOm8tGkemOJZ0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsweb&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsweb" /> </p>
 
-- 🌱 I’m currently learning **Django,Python**
+- 🌱 I’m currently learning **MERN Fullstack development**
 
 - 💬 Ask me about **ReactJs , Javascript ,C#, NodeJs ,Html ,CSS**
 
 - 📫 How to reach me **dhruvsaini910@gmail.com**
 
-- ⚡ Fun fact **I am a Developer not a programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
