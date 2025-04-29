@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Fullstack development**
 
-- 💬 Ask me about **ReactJs , Javascript ,C#, NodeJs ,Html ,CSS**
+- 💬 Ask me about **MVC, Javascript ,C# ,Html ,CSS**
 
 - 📫 How to reach me **dhruvsaini910@gmail.com**
 
